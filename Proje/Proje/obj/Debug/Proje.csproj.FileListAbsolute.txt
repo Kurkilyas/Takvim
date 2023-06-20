@@ -1,0 +1,16 @@
+C:\Users\kurki\C# projects\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\kurki\C# projects\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\kurki\C# projects\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\kurki\C# projects\Proje\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\kurki\C# projects\Proje\Proje\obj\Debug\Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurki\C# projects\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\kurki\C# projects\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\kurki\C# projects\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\kurki\C# projects\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\kurki\C# projects\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\kurki\C# projects\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\kurki\C# projects\Proje\Proje\obj\Debug\Proje.UyeOl.resources
+C:\Users\kurki\C# projects\Proje\Proje\obj\Debug\Proje.Takvim.resources
+C:\Users\kurki\C# projects\Proje\Proje\obj\Debug\Proje.UserControlBlank.resources
+C:\Users\kurki\C# projects\Proje\Proje\obj\Debug\Proje.UserControlDays.resources
+C:\Users\kurki\C# projects\Proje\Proje\obj\Debug\Proje.EventFormcs.resources
