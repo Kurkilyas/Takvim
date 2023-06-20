@@ -36,15 +36,7 @@ namespace Proje
                 
          
                 timer2.Start();
-                
-            
-           
-                
-            
-           
-
-
-        }
+            }
         public void days(int numday) //günleri belirleme
         {
             lbldays.Text = numday.ToString();
