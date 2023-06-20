@@ -26,6 +26,7 @@ namespace Proje
         private void button1_Click(object sender, EventArgs e) //Bu button ile kullanıcı tablosundan verileri alarak giriş sağlanır
         {
             SqlConnection connection = bgl.baglanti();
+           
             connection.Open();
 
             SqlCommand komut = new SqlCommand("Select * From Kayit_Table Where Kullanici_Email=@p1 and Kullanici_Password=@p2", connection);
