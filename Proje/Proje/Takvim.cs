@@ -23,8 +23,7 @@ namespace Proje
         {
             InitializeComponent();
             DisplaDays();
-
-        }
+         }
         SqlBaglantisi bgl=new SqlBaglantisi();
         
         private void button1_Click(object sender, EventArgs e) //Sonraki buttonu
