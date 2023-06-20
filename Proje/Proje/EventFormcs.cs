@@ -29,15 +29,12 @@ namespace Proje
             while(dr.Read())  //Eğer onaylayıp okursa aşağıdaki textbox lara yazıcak böylece bir tarihin olayını yada zamanı değiştirmek istediğimiz zaman uğraşmıcaz
             {
                 txtBaslangic.Text = dr[1].ToString();
-                
                 txtOlayınTanım.Text = dr[2].ToString();
                 txtOlayTip.Text = dr[3].ToString(); 
                 txtOlayAciklama.Text = dr[4].ToString();    
             }
             connection.Close();
-
-
-        }
+            }
      
 
         private void btnnkaydet_Click(object sender, EventArgs e)
