@@ -1,6 +1,8 @@
 # Takvim
 Kullanışlı takvim ekranı
-Projeye ilk giriş yaptığınızda bir login ekranı karşılıcak sizi eğer üye değilseniz üye ol kısmı ile üye olabilirsiniz.
-Üye olup giriş yaptıktan sonra takvim ekranı karşılıcak.
-Takvim uygulamanın günlerini user control oluşturuyor.Bunların içine tıklayarak o güne ait olayları kaydedebilirsiniz.
+1-)Login ekranı
+2-)Üye olma ekranı
+3-)Takvim arayüzü
+4-)Event ekleme arayüzü
+Olmak üzere 4 tane arayüz ekranımız bulunmaktadır.Login ekranı ile giriş yaptıktan sonra istediğiniz güne event ekleyebilirsinizç
 
